@@ -1,0 +1,105 @@
+{
+    "pacienti": [
+      {
+        "prenume": "Ion",
+        "nume": "Popescu",
+        "data_nasterii": "1979-05-12",
+        "sex": "masculin",
+        "oras": "Iasi",
+        "judet": "Iasi",
+        "adresa": "Strada Florilor nr. 10",
+        "CNP": "1790512391234"
+      },
+      {
+        "prenume": "Maria",
+        "nume": "Ionescu",
+        "data_nasterii": "1994-09-23",
+        "sex": "feminin",
+        "oras": "Iasi",
+        "judet": "Iasi",
+        "adresa": "Bulevardul Libertatii nr. 25",
+        "CNP": "2940923456789"
+      },
+      {
+        "prenume": "Alexandru",
+        "nume": "Pop",
+        "data_nasterii": "1968-11-05",
+        "sex": "masculin",
+        "oras": "Iasi",
+        "judet": "Iasi",
+        "adresa": "Aleea Soarelui nr. 5",
+        "CNP": "1681105678901"
+      },
+      {
+        "prenume": "Elena",
+        "nume": "Constantin",
+        "data_nasterii": "1957-03-18",
+        "sex": "feminin",
+        "oras": "Bacau",
+        "judet": "Bacau",
+        "adresa": "Strada Rozelor nr. 15",
+        "CNP": "1570318234567"
+      },
+      {
+        "prenume": "Andrei",
+        "nume": "Dumitru",
+        "data_nasterii": "1982-07-30",
+        "sex": "masculin",
+        "oras": "Bacau",
+        "judet": "Bacau",
+        "adresa": "Bulevardul Independentei nr. 30",
+        "CNP": "1820734123456"
+      },
+      {
+        "prenume": "Ana",
+        "nume": "Georgescu",
+        "data_nasterii": "2004-01-10",
+        "sex": "feminin",
+        "oras": "Iasi",
+        "judet": "Iasi",
+        "adresa": "Strada Pacii nr. 8",
+        "CNP": "1040110345678"
+      },
+      {
+        "prenume": "Mihai",
+        "nume": "Vasilescu",
+        "data_nasterii": "1971-08-22",
+        "sex": "masculin",
+        "oras": "Iasi",
+        "judet": "Iasi",
+        "adresa": "Aleea Luminii nr. 12",
+        "CNP": "1710823567890"
+      },
+      {
+        "prenume": "Irina",
+        "nume": "Nistor",
+        "data_nasterii": "1986-12-07",
+        "sex": "feminin",
+        "oras": "Piatra Neamt",
+        "judet": "Neamt",
+        "adresa": "Bulevardul Revolutiei nr. 18",
+        "CNP": "1861209345678"
+      },
+      {
+        "prenume": "Radu",
+        "nume": "Florescu",
+        "data_nasterii": "1960-04-25",
+        "sex": "masculin",
+        "oras": "Piatra Neamt",
+        "judet": "Neamt",
+        "adresa": "Strada Victoria nr. 7",
+        "CNP": "1600423567890"
+      },
+      {
+        "prenume": "Ioana",
+        "nume": "Cozma",
+        "data_nasterii": "1999-10-14",
+        "sex": "feminin",
+        "oras": "Iasi",
+        "judet": "Iasi",
+        "adresa": "Aleea Trandafirilor nr. 3",
+        "CNP": "1991014234567"
+      }
+    ]
+  }
+  
